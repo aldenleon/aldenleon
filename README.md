@@ -1,6 +1,6 @@
 ### Hola, soy Alden 👋
 
-[beagle](img/beagle1.jpg)
+![beagle](img/beagle1.jpg)
 
 <!--
 **aldenleon/aldenleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
