@@ -1,6 +1,10 @@
 ### Hola, soy Alden 👋
-
+<!--
 ![beagle](img/beagle1.jpg)
+-->
+
+- 🔭 Busco prácticas para el Ciclo en Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 📫 Escríbeme a alden.leon3@gmail.com
 
 <!--
 **aldenleon/aldenleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
