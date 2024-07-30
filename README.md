@@ -3,7 +3,9 @@
 ![beagle](img/beagle1.jpg)
 -->
 
+<!--
 - 🔭 Busco prácticas para el Ciclo en Desarrollo de Aplicaciones Multiplataforma (DAM)
+-->
 - 📫 Escríbeme a alden.leon3@gmail.com
 
 <!--
